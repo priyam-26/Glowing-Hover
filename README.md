@@ -1,0 +1,1 @@
+# The hover has a glowing effect with rotating colors.
